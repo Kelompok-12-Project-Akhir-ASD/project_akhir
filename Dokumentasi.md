@@ -1,6 +1,6 @@
 # Deskripsi Program
 
-Program yang dibuat adalah program e-commerce yang digunakan untuk membuat dan mengelola toko online dan memungkinkan pengguna untuk melakukan transaksi jual beli secara online. Dalam program e-commerce, pengguna mengatur daftar produk, mengelola persediaan, memproses pesanan, dan melakukan pembayaran secara online. 
+Program yang dibuat adalah program e-commerce yang digunakan untuk membuat dan mengelola toko online dan memungkinkan pengguna untuk melakukan transaksi jual beli secara online. Pada program e-commerce, dapat mengatur daftar produk, mengelola persediaan, memproses pesanan, dan melakukan pembayaran secara online. 
 
 Program tersebut menerapkan login multiuser yaitu login sebagai admin dan login sebagai pembeli atau customer. Program tersebut menggunakan konsep linked list sebagai struktur datanya.  Ada dua class dalam program tersebut yaitu class Barang dan class LinkedList. 
 
